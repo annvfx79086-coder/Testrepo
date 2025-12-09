@@ -208,4 +208,5 @@ N00000042,100
 N00000043,86
 N00000044,90
 N00000045,67
+
 Task 5: Chỉ sử dụng pandas và numpy khi bạn triển khai task 1 đến task 4.
